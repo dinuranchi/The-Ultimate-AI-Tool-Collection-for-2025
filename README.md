@@ -25,4 +25,4 @@ A curated collection of powerful AI tools to enhance productivity and creativity
 No installation required! Access the showcase at:
 
 ```bash
-https://your-showcase-url.com
+(https://harshit.org/ai/ai_tools_showcase.html)
